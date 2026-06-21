@@ -1,4 +1,3 @@
-# Hi, I'm unxssh.
 
 ### About
 - Currently working on personal projects and improving my skills.
