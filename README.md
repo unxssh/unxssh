@@ -9,7 +9,7 @@
 - Reach me at: **unxssh@gmail.com**
 
 ### Stack
-`Python` `JavaScript` `HTML/CSS` `React` `Git`
+`C/C++` `Python` `JavaScript` `HTML/CSS` `React` `Git`
 
 ### Stats
 <div align="left">
