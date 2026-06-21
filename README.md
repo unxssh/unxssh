@@ -1,7 +1,5 @@
 # Hi, I'm unxssh.
 
-A passionate developer exploring new technologies and building clean, minimalist solutions.
-
 ---
 
 ### About
