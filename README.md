@@ -1,7 +1,5 @@
 # Hi, I'm unxssh.
 
----
-
 ### About
 - Currently working on personal projects and improving my skills.
 - Constantly learning about **Software Development** & **Architecture**.
