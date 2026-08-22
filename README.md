@@ -11,13 +11,13 @@ $ cat aboutme.json
 }
 ```
 
-### 🛠️ Tech Stack
+### 🛠️ stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,git,linux,bash" alt="My Tech Stack" />
 </p>
 
-### 🎵 On Repeat
+### 🎵 favorite
 
 <p align="left">
   <a href="https://open.spotify.com/track/7gHs73wELdeycvS48JfIos?si=f94fbbb53eb744af" target="_blank">
@@ -25,7 +25,7 @@ $ cat aboutme.json
   </a>
 </p>
 
-### 📊 Activity Graph
+### 📊 activity
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=unxssh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
