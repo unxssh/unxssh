@@ -20,6 +20,9 @@ $ cat about_me.json
 ### 📊 GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=unxssh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unxssh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=unxssh&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unxssh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
