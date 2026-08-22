@@ -21,7 +21,7 @@ $ cat aboutme.json
 
 <p align="left">
   <a href="https://open.spotify.com/track/698ItKASD2wZ392g17Wpnd" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Alan%20Walker%20--%20Faded-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Alan Walker - Faded" />
+    <img src="./assets/spotify-player.svg" alt="Alan Walker - Faded" width="420" />
   </a>
 </p>
 
