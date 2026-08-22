@@ -1,14 +1,25 @@
+<h1 align="left">Hi, I'm unxssh 👋</h1>
 
-### About
-- Currently working on personal projects and improving my skills.
-- Constantly learning about **Software Development** & **Architecture**.
-- Focused on writing clean, maintainable code and automating tasks.
-- Reach me at: **unxssh@gmail.com**
+> *Software Developer passionate about architecture, low-level systems, and automation.*
 
-### Stack
-`C/C++` `Python` `JavaScript` `HTML/CSS` `React` `Git`
+```bash
+$ cat about_me.json
+{
+  "focus": "Clean code & Software Architecture",
+  "learning": "Systems design & Performance optimization",
+  "contact": "unxssh@gmail.com"
+}
+```
 
-### Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=unxssh&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&hide_title=true" height="130" alt="GitHub Stats" />
-</div>
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,git,linux,bash" alt="My Tech Stack" />
+</p>
+
+### 📊 GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=unxssh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unxssh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
