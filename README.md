@@ -3,10 +3,10 @@
 > *Software Developer passionate about architecture, low-level systems, and automation.*
 
 ```bash
-$ cat about_me.json
+$ cat aboutme.json
 {
-  "focus": "Clean code & Software Architecture",
-  "learning": "Systems design & Performance optimization",
+  "focus": "clean code & software architecture",
+  "learning": "systems design & performance optimization",
   "contact": "unxssh@gmail.com"
 }
 ```
